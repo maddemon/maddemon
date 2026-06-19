@@ -1,14 +1,15 @@
 ## Hi there 👋 I'm Liangjun Zheng
 
-Full-Stack Developer passionate about building clean and efficient web applications.
+Software architect with 20 years of experience. Previously at CSDN, Shanda (SNDA), and Ctrip.
 
 ### About Me
 
-- 🔭 I'm currently working on form_engine & voicechat
-- 🌱 Exploring AI-powered development workflows
-- 💻 Full-stack developer (TypeScript / C# / Dart)
+- 🔭 Currently building form_engine & voicechat
+- 🌱 Researching AI Agent and LLM-powered workflows
+- 🏛️ Expertise in architecture design, low-code platforms, and workflow systems
+- 💻 TypeScript / C# / Dart
 - 📍 Xuzhou, China
-- 📫 Reach me: [zhenglj@msn.com](mailto:zhenglj@msn.com)
+- 📫 [zhenglj@msn.com](mailto:zhenglj@msn.com)
 
 ### Tech Stack
 
