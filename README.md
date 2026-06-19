@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Liangjun Zheng
 
-Software architect with 20 years of experience. Previously at CSDN, Shanda (SNDA), and Ctrip.
+Software architect with 20 years of experience. Previously at CSDN, SNDA, and Ctrip.
 
 ### About Me
 
